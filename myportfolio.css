@@ -86,6 +86,7 @@ span {
 
 .home-content {
     max-width: 800px;
+    margin-top: 20px; 
 }
 
 .home-content h3 {
