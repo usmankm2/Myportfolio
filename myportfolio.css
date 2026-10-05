@@ -81,16 +81,18 @@ span {
     display: flex;
     align-items: center;
     gap: 7em;
-    padding: 30px 12% 0;
+    padding: 140px 12% 40px;
+    scroll-margin-top: 130px;
 }
 
 .home-content {
     max-width: 800px;
-    margin-top: 20px; 
+    margin: 0;
 }
 
 .home-content h3 {
     font-size: 42px;
+    margin-top: 20px;
 }
 
 .home-content h2 {
